@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/SimranSuri30/SimranSuri30/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Simran Suri</h1>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 ------
 
